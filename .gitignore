@@ -18,3 +18,5 @@ license.config.org
 UpgradeLog.htm
 *.log
 *.user
+AzureEpiTest/Properties/PublishProfiles/AzureEpiTest-Testing - FTP.pubxml
+AzureEpiTest/Properties/PublishProfiles/AzureEpiTest-Testing - Web Deploy.pubxml
